@@ -1,6 +1,6 @@
 ### Hi, I'm Ernesto 👋
 
-I'm a Senior DevOps Engineer, working as a IT Teacher. 
+I'm a Senior DevSecOps Engineer, working as a IT Teacher. 
 
 - 🔭 I’m currently working as teacher in a small island
 - 💬 Ask me about Zombies
