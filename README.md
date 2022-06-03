@@ -4,7 +4,7 @@ I'm a Senior DevSecOps Engineer, working as a IT Teacher.
 
 - 🔭 I’m currently working as teacher in a small island
 - 💬 Ask me about Zombies
-- 📫 How to reach me: info@ernesto.es
+- 📫 How to reach me: [ernesto.es](https://ernesto.es)
 
 
 <!--
