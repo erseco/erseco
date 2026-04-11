@@ -8,7 +8,7 @@ I'm a Senior DevSecOps Engineer, working as a IT Teacher.
 
 ### Things I'm building
 
-- [**eXeLearning**](http://github.com/exelearning/exelearning) — open tools for creating educational content and learning resources.
+- [**eXeLearning**](http://github.com/exelearning/exelearning) — open tool for creating educational content and learning resources.
 - [**alpine-moodle**](https://github.com/erseco/alpine-moodle) — lightweight Moodle on Alpine Linux.
 - [**alpine-php-webserver**](https://github.com/erseco/alpine-php-webserver) — tiny PHP-FPM + Nginx Docker image.
 - [**python-moodle**](https://github.com/erseco/python-moodle) — automate Moodle from Python through real web sessions.
