@@ -14,7 +14,7 @@ I'm a Senior DevSecOps Engineer, working as a IT Teacher.
 - [**python-moodle**](https://github.com/erseco/python-moodle) — automate Moodle from Python through real web sessions.
 - [**moodle-playground**](https://github.com/ateeducacion/moodle-playground) — Moodle in the browser with WebAssembly.
 - [**omeka-s-playground**](https://github.com/ateeducacion/omeka-s-playground) — Omeka S in the browser with WebAssembly.
-- [**alpine-omeka-s**](https://github.com/ateeducacion/alpine-omeka-s) — Alpine-based Omeka S Docker image.
+- [**alpine-omeka-s**](https://github.com/erseco/alpine-omeka-s) — Alpine-based Omeka S Docker image.
 - [**wp-decker**](https://github.com/ateeducacion/wp-decker) — Kanban-style WordPress plugin for internal team workflows.
 - [**FacturaScripts Playground**](https://github.com/erseco/facturascripts-playground) — sandbox for FacturaScripts experiments.
 - [**FacturaScripts plugins**](https://github.com/erseco?tab=repositories&q=facturascripts-plugin) — plugins for automation and ERP workflows.
